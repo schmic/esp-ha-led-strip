@@ -10,4 +10,4 @@ Attention, don't break the single-double-quotes for the defines in the platformi
 ### Home-Assistant Integration
 Home-Assistants [mqtt_light-component](https://www.home-assistant.io/components/light.mqtt/) is used to control everything. Check the example-directory.
 
-![Screeshot](/schmic/esp-ha-led-strip/raw/master/example/ha.png)
+![Screeshot](https://github.com/schmic/esp-ha-led-strip/raw/master/example/ha.png)
