@@ -1,7 +1,7 @@
 light:
   - platform: mqtt_json
     name: "led 2c3ae843ff7a"
-    state_topic: "leds/2c3ae843ff7a"
+    state_topic: "leds/2c3ae843ff7a/state"
     command_topic: "leds/2c3ae843ff7a/cmd"
     availability_topic: "leds/2c3ae843ff7a/lwt"
     effect: true
